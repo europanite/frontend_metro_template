@@ -1,6 +1,6 @@
 # [Frontend Metro Template](https://github.com/europanite/frontend_metro_template "Frontend Metro Template")
 
-A Client Side Vite Template.
+A Client Side Metro Template.
 
 ---
 
