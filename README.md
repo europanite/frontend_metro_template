@@ -1,11 +1,10 @@
 # [Frontend Metro Template](https://github.com/europanite/frontend_metro_template "Frontend Metro Template")
 
+!["web_ui"](./assets/images/web_ui.png)
+
+[PlayGround](https://europanite.github.io/frontend_metro_template/)
+
 A Client Side Metro Template.
-
----
-
-##  🚀 PlayGround
- [Frontend Metro Template](https://europanite.github.io/frontend_metro_template/)
 
 ---
 
